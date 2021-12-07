@@ -1,0 +1,2 @@
+requirements.txt we use it for python and django projects
+for instaling top level library (pip packeges)
